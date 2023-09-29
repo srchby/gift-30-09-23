@@ -1,0 +1,65 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background:radial-gradient(160.27% 110.41% at 75.69% 6.49%, #BDDCF9 0%, #89D5FF 54.7%, #73CEF5 100%);
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1{
+  font-family: 'Inter', sans-serif;
+  font-weight: 300;
+  font-size: 50px;
+  color: #ffffff;
+  text-align: center;
+}
+p{
+  font-family: 'Inter', sans-serif;
+  font-weight: 300;
+  text-align: center;
+}
+
+.myBox{
+  margin: auto;
+  background-color: rgba(255,255,255);
+  border-radius: 15px;
+  outline: 3px solid rgba(140,194,217,.4);
+  padding: 10px;
+  max-width: auto;
+}
+
+audio{
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: center;
+}
+
+h2{
+  font-family: 'Inter', sans-serif;
+  font-weight: 300;
+  text-align: center;
+}
+
+img{
+  width: 100%;
+  height: 100%;
+}
+
+h3{
+  font-family: 'Inter', sans-serif;
+  font-weight: 300;
+  text-align: center;
+}
+
+hr{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  outline: 3px solid rgba(140,194,217,.4);
+  border-radius: 5px;
+  max-width: 75%;
+}
+
